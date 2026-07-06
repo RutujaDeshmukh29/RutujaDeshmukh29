@@ -23,7 +23,7 @@
 rutuja = {
     "role":        "Aspiring AI Engineer",
     "location":    "Nashik, Maharashtra 🇮🇳",
-    "education":   "Diploma in AI & ML — 91.65% 🎓",
+    "education":   "Diploma in AI & ML — 89.59% 🎓",
     "focus":       [
                       "Generative AI",
                       "RAG Pipelines + Semantic Search",
