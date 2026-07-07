@@ -195,7 +195,7 @@ rutuja = {
 |---|---|
 | 🏆 **IET Expo 2026** | Presented AgroBot at national-level technical exhibition |
 | 📄 **Research Published** | IJARCCE — AgroBot AI Autonomous Mower |
-| 🎓 **91.65% AIML Diploma** | Top performance in AI & Machine Learning |
+| 🎓 **89.59% AIML Diploma** | Top performance in AI & Machine Learning |
 | ☁️ **AWS Certified** | AWS Academy Graduate — Cloud Foundations |
 | 🤖 **LangGraph Certified** | Build AI Agents using LangGraph — Simplilearn |
 | 🚀 **Live AI Product** | AI Learning Companion deployed on Streamlit Cloud |
