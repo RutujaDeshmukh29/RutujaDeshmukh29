@@ -284,23 +284,6 @@ My personal portfolio website.<br/>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="./assets/monthly-contributions.svg" alt="Monthly contributions line graph" width="100%" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-
 
 ## 🤝 Let's Connect
 
