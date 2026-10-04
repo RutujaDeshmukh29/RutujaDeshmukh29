@@ -288,6 +288,10 @@ My personal portfolio website.<br/>
 
 <div align="center">
 
+<img src="./assets/monthly-contributions.svg" alt="Monthly contributions line graph" width="100%" />
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake.svg" />
