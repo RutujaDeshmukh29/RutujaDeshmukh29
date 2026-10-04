@@ -288,19 +288,15 @@ My personal portfolio website.<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RutujaDeshmukh29&bg_color=0d1117&color=818CF8&line=6366f1&point=a78bfa&area=true&hide_border=true&area_color=6366f1" alt="Contribution Graph" width="100%"/>
-
-<!--
-OPTIONAL: Snake animation.
-Add the .github/workflows/snake.yml file, run the workflow once from the Actions tab,
-then remove the opening and closing comment lines around the image below.
-
-<img src="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake.svg" alt="Contribution snake" width="100%"/>
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/RutujaDeshmukh29/RutujaDeshmukh29/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
----
+
 
 ## 🤝 Let's Connect
 
