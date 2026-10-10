@@ -14,33 +14,33 @@
 <text x="46" y="150.5" fill="#8b949e" font-size="11" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif">22.5</text>
 <line x1="56" y1="104.0" x2="864" y2="104.0" stroke="#21262d" stroke-width="1"/>
 <text x="46" y="108.0" fill="#8b949e" font-size="11" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif">30</text>
-<path d="M56.0,274.0 L65.0,274.0 L74.0,274.0 L82.9,274.0 L91.9,274.0 L100.9,274.0 L109.9,274.0 L118.8,274.0 L127.8,274.0 L136.8,274.0 L145.8,274.0 L154.8,274.0 L163.7,274.0 L172.7,274.0 L181.7,274.0 L190.7,274.0 L199.6,274.0 L208.6,274.0 L217.6,274.0 L226.6,274.0 L235.6,251.3 L244.5,274.0 L253.5,274.0 L262.5,200.3 L271.5,166.3 L280.4,274.0 L289.4,268.3 L298.4,274.0 L307.4,274.0 L316.4,257.0 L325.3,274.0 L334.3,274.0 L343.3,274.0 L352.3,274.0 L361.2,274.0 L370.2,274.0 L379.2,274.0 L388.2,274.0 L397.2,274.0 L406.1,268.3 L415.1,274.0 L424.1,274.0 L433.1,274.0 L442.0,274.0 L451.0,274.0 L460.0,274.0 L469.0,274.0 L478.0,274.0 L486.9,274.0 L495.9,274.0 L504.9,274.0 L513.9,274.0 L522.8,274.0 L531.8,274.0 L540.8,274.0 L549.8,274.0 L558.8,274.0 L567.7,274.0 L576.7,274.0 L585.7,274.0 L594.7,274.0 L603.6,274.0 L612.6,274.0 L621.6,274.0 L630.6,274.0 L639.6,274.0 L648.5,274.0 L657.5,245.7 L666.5,155.0 L675.5,160.7 L684.4,274.0 L693.4,274.0 L702.4,274.0 L711.4,274.0 L720.4,274.0 L729.3,274.0 L738.3,274.0 L747.3,274.0 L756.3,274.0 L765.2,274.0 L774.2,274.0 L783.2,274.0 L792.2,274.0 L801.2,274.0 L810.1,274.0 L819.1,274.0 L828.1,223.0 L837.1,274.0 L846.0,274.0 L855.0,262.7 L864.0,274.0 L864.0,274 L56.0,274 Z" fill="url(#fill)"/>
-<path d="M56.0,274.0 L65.0,274.0 L74.0,274.0 L82.9,274.0 L91.9,274.0 L100.9,274.0 L109.9,274.0 L118.8,274.0 L127.8,274.0 L136.8,274.0 L145.8,274.0 L154.8,274.0 L163.7,274.0 L172.7,274.0 L181.7,274.0 L190.7,274.0 L199.6,274.0 L208.6,274.0 L217.6,274.0 L226.6,274.0 L235.6,251.3 L244.5,274.0 L253.5,274.0 L262.5,200.3 L271.5,166.3 L280.4,274.0 L289.4,268.3 L298.4,274.0 L307.4,274.0 L316.4,257.0 L325.3,274.0 L334.3,274.0 L343.3,274.0 L352.3,274.0 L361.2,274.0 L370.2,274.0 L379.2,274.0 L388.2,274.0 L397.2,274.0 L406.1,268.3 L415.1,274.0 L424.1,274.0 L433.1,274.0 L442.0,274.0 L451.0,274.0 L460.0,274.0 L469.0,274.0 L478.0,274.0 L486.9,274.0 L495.9,274.0 L504.9,274.0 L513.9,274.0 L522.8,274.0 L531.8,274.0 L540.8,274.0 L549.8,274.0 L558.8,274.0 L567.7,274.0 L576.7,274.0 L585.7,274.0 L594.7,274.0 L603.6,274.0 L612.6,274.0 L621.6,274.0 L630.6,274.0 L639.6,274.0 L648.5,274.0 L657.5,245.7 L666.5,155.0 L675.5,160.7 L684.4,274.0 L693.4,274.0 L702.4,274.0 L711.4,274.0 L720.4,274.0 L729.3,274.0 L738.3,274.0 L747.3,274.0 L756.3,274.0 L765.2,274.0 L774.2,274.0 L783.2,274.0 L792.2,274.0 L801.2,274.0 L810.1,274.0 L819.1,274.0 L828.1,223.0 L837.1,274.0 L846.0,274.0 L855.0,262.7 L864.0,274.0" fill="none" stroke="#6366f1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="235.6" cy="251.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="262.5" cy="200.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="271.5" cy="166.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="289.4" cy="268.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="316.4" cy="257.0" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="406.1" cy="268.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="657.5" cy="245.7" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="666.5" cy="155.0" r="4.5" fill="#a78bfa" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="675.5" cy="160.7" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="828.1" cy="223.0" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<circle cx="855.0" cy="262.7" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
-<text x="666.5" y="145.0" fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">21</text>
-<text x="56.0" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 11</text>
-<text x="118.8" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 18</text>
-<text x="181.7" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 25</text>
-<text x="244.5" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 1</text>
-<text x="307.4" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 8</text>
-<text x="370.2" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 15</text>
-<text x="433.1" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 22</text>
-<text x="495.9" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 29</text>
-<text x="558.8" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 5</text>
-<text x="621.6" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 12</text>
-<text x="684.4" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 19</text>
-<text x="747.3" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 26</text>
-<text x="810.1" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Oct 3</text>
+<path d="M56.0,274.0 L65.0,274.0 L74.0,274.0 L82.9,274.0 L91.9,274.0 L100.9,274.0 L109.9,274.0 L118.8,274.0 L127.8,274.0 L136.8,274.0 L145.8,274.0 L154.8,274.0 L163.7,274.0 L172.7,274.0 L181.7,274.0 L190.7,274.0 L199.6,274.0 L208.6,274.0 L217.6,274.0 L226.6,251.3 L235.6,274.0 L244.5,274.0 L253.5,200.3 L262.5,166.3 L271.5,274.0 L280.4,268.3 L289.4,274.0 L298.4,274.0 L307.4,257.0 L316.4,274.0 L325.3,274.0 L334.3,274.0 L343.3,274.0 L352.3,274.0 L361.2,274.0 L370.2,274.0 L379.2,274.0 L388.2,274.0 L397.2,268.3 L406.1,274.0 L415.1,274.0 L424.1,274.0 L433.1,274.0 L442.0,274.0 L451.0,274.0 L460.0,274.0 L469.0,274.0 L478.0,274.0 L486.9,274.0 L495.9,274.0 L504.9,274.0 L513.9,274.0 L522.8,274.0 L531.8,274.0 L540.8,274.0 L549.8,274.0 L558.8,274.0 L567.7,274.0 L576.7,274.0 L585.7,274.0 L594.7,274.0 L603.6,274.0 L612.6,274.0 L621.6,274.0 L630.6,274.0 L639.6,274.0 L648.5,245.7 L657.5,155.0 L666.5,160.7 L675.5,274.0 L684.4,274.0 L693.4,274.0 L702.4,274.0 L711.4,274.0 L720.4,274.0 L729.3,274.0 L738.3,274.0 L747.3,274.0 L756.3,274.0 L765.2,274.0 L774.2,274.0 L783.2,274.0 L792.2,274.0 L801.2,274.0 L810.1,274.0 L819.1,223.0 L828.1,274.0 L837.1,274.0 L846.0,262.7 L855.0,274.0 L864.0,274.0 L864.0,274 L56.0,274 Z" fill="url(#fill)"/>
+<path d="M56.0,274.0 L65.0,274.0 L74.0,274.0 L82.9,274.0 L91.9,274.0 L100.9,274.0 L109.9,274.0 L118.8,274.0 L127.8,274.0 L136.8,274.0 L145.8,274.0 L154.8,274.0 L163.7,274.0 L172.7,274.0 L181.7,274.0 L190.7,274.0 L199.6,274.0 L208.6,274.0 L217.6,274.0 L226.6,251.3 L235.6,274.0 L244.5,274.0 L253.5,200.3 L262.5,166.3 L271.5,274.0 L280.4,268.3 L289.4,274.0 L298.4,274.0 L307.4,257.0 L316.4,274.0 L325.3,274.0 L334.3,274.0 L343.3,274.0 L352.3,274.0 L361.2,274.0 L370.2,274.0 L379.2,274.0 L388.2,274.0 L397.2,268.3 L406.1,274.0 L415.1,274.0 L424.1,274.0 L433.1,274.0 L442.0,274.0 L451.0,274.0 L460.0,274.0 L469.0,274.0 L478.0,274.0 L486.9,274.0 L495.9,274.0 L504.9,274.0 L513.9,274.0 L522.8,274.0 L531.8,274.0 L540.8,274.0 L549.8,274.0 L558.8,274.0 L567.7,274.0 L576.7,274.0 L585.7,274.0 L594.7,274.0 L603.6,274.0 L612.6,274.0 L621.6,274.0 L630.6,274.0 L639.6,274.0 L648.5,245.7 L657.5,155.0 L666.5,160.7 L675.5,274.0 L684.4,274.0 L693.4,274.0 L702.4,274.0 L711.4,274.0 L720.4,274.0 L729.3,274.0 L738.3,274.0 L747.3,274.0 L756.3,274.0 L765.2,274.0 L774.2,274.0 L783.2,274.0 L792.2,274.0 L801.2,274.0 L810.1,274.0 L819.1,223.0 L828.1,274.0 L837.1,274.0 L846.0,262.7 L855.0,274.0 L864.0,274.0" fill="none" stroke="#6366f1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="226.6" cy="251.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="253.5" cy="200.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="262.5" cy="166.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="280.4" cy="268.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="307.4" cy="257.0" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="397.2" cy="268.3" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="648.5" cy="245.7" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="657.5" cy="155.0" r="4.5" fill="#a78bfa" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="666.5" cy="160.7" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="819.1" cy="223.0" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="846.0" cy="262.7" r="3" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<text x="657.5" y="145.0" fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">21</text>
+<text x="56.0" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 12</text>
+<text x="118.8" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 19</text>
+<text x="181.7" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 26</text>
+<text x="244.5" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 2</text>
+<text x="307.4" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 9</text>
+<text x="370.2" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 16</text>
+<text x="433.1" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 23</text>
+<text x="495.9" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 30</text>
+<text x="558.8" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 6</text>
+<text x="621.6" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 13</text>
+<text x="684.4" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 20</text>
+<text x="747.3" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 27</text>
+<text x="810.1" y="292" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Oct 4</text>
 <text x="56" y="326" fill="#c9d1d9" font-size="13" font-weight="600" font-family="Segoe UI, Helvetica, Arial, sans-serif">Weekly totals</text>
 <line x1="56" y1="456.0" x2="864" y2="456.0" stroke="#21262d" stroke-width="1"/>
 <text x="46" y="460.0" fill="#8b949e" font-size="11" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif">0</text>
@@ -52,29 +52,29 @@
 <text x="46" y="385.0" fill="#8b949e" font-size="11" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif">37.5</text>
 <line x1="56" y1="356.0" x2="864" y2="356.0" stroke="#21262d" stroke-width="1"/>
 <text x="46" y="360.0" fill="#8b949e" font-size="11" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif">50</text>
-<text x="87.1" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 11</text>
-<text x="149.2" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 18</text>
+<text x="87.1" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 12</text>
+<text x="149.2" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 19</text>
 <rect x="192.1" y="448.0" width="38.5" height="8.0" rx="4" fill="#6366f1"/>
 <text x="211.4" y="442.0" fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">4</text>
-<text x="211.4" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 25</text>
+<text x="211.4" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Jul 26</text>
 <rect x="254.3" y="390.0" width="38.5" height="66.0" rx="4" fill="#6366f1"/>
 <text x="273.5" y="384.0" fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">33</text>
-<text x="273.5" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 1</text>
+<text x="273.5" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 2</text>
 <rect x="316.4" y="450.0" width="38.5" height="6.0" rx="4" fill="#6366f1"/>
 <text x="335.7" y="444.0" fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">3</text>
-<text x="335.7" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 8</text>
+<text x="335.7" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 9</text>
 <rect x="378.6" y="454.0" width="38.5" height="2.0" rx="4" fill="#6366f1"/>
 <text x="397.8" y="448.0" fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">1</text>
-<text x="397.8" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 15</text>
-<text x="460.0" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 22</text>
-<text x="522.2" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 29</text>
-<text x="584.3" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 5</text>
+<text x="397.8" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 16</text>
+<text x="460.0" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 23</text>
+<text x="522.2" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Aug 30</text>
+<text x="584.3" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 6</text>
 <rect x="627.2" y="364.0" width="38.5" height="92.0" rx="4" fill="#a78bfa"/>
 <text x="646.5" y="358.0" fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">46</text>
-<text x="646.5" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 12</text>
-<text x="708.6" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 19</text>
-<text x="770.8" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 26</text>
+<text x="646.5" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 13</text>
+<text x="708.6" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 20</text>
+<text x="770.8" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sep 27</text>
 <rect x="813.7" y="434.0" width="38.5" height="22.0" rx="4" fill="#6366f1"/>
 <text x="832.9" y="428.0" fill="#c9d1d9" font-size="11" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">11</text>
-<text x="832.9" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Oct 3</text>
+<text x="832.9" y="474" fill="#8b949e" font-size="10" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">Oct 4</text>
 </svg>
